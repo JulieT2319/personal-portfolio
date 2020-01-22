@@ -44,9 +44,10 @@ main {
 
 .font-xstitch {
   font-family: "kingthings_xstitchregular", "Times New Roman", serif;
+  font-weight: 400 !important;
 }
 
 .card-title {
   font-size: 25px !important;
-  font-weight: 400 !important;
+  font-weight: 600 !important;
 }
