@@ -55,6 +55,9 @@ main {
 .pad-bottom {
   padding-bottom: 2.5em;
 }
+.pad-left{
+  padding-left: 2.5em;
+}
 
 .sidnav{
 	font-weight: 600 !important;
